@@ -1,0 +1,2 @@
+"Developed a responsive English to Hindi Transliteration Web App using HTML, CSS (Grid & Flexbox), and JavaScript. Implemented text processing algorithms, clipboard operations (copy-paste), and JSON-based dictionary handling for seamless transliteration. Enhanced UX with dynamic font resizing and local word storage functionality."
+"Built a responsive English to Hindi Transliteration Web App using HTML, CSS, and JavaScript. Added features like text conversion, copy-paste, font resizing, and JSON-based word storage for better user experience."
